@@ -4,4 +4,4 @@
 
 import os
 import BD
-BD.loging.()
+BD.loging()
